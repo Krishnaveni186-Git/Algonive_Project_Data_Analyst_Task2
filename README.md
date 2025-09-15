@@ -59,4 +59,5 @@ Outlet Location
 Outlet Size
 Item Type
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef405a95-cad3-4324-97a5-13c6df6dc7a7"
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/4ef9bb49-bac8-41cd-947f-8585c2be6900" />
+
